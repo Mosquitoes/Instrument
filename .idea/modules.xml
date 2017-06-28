@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImgRecod/ImgRecod.iml" filepath="$PROJECT_DIR$/ImgRecod/ImgRecod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instrument.iml" filepath="$PROJECT_DIR$/Instrument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstrumentWeb/InstrumentWeb.iml" filepath="$PROJECT_DIR$/InstrumentWeb/InstrumentWeb.iml" />
+    </modules>
+  </component>
+</project>
